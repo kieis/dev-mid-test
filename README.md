@@ -1,3 +1,5 @@
+### The test
+
 #### Exercise 1: Simple Calculator
 Create a calculator that takes two numbers and an operator (+, -, *, /) and returns the result
 of the operation.
@@ -31,3 +33,9 @@ average of the grades. Then display the calculated average.
 Create a function that calculates the final value of an investment based on initial capital,
 interest rate, and investment time (in months). The program must prompt the user for these
 values and display the final value.
+
+### Running
+```
+npm i && npm start
+```
+##### Use keyboard arrows to control the prompt menu
